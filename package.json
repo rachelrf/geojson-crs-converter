@@ -1,0 +1,22 @@
+{
+  "name": "geojson-crs-converter",
+  "version": "1.0.0",
+  "description": "Convert GeoJSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelrf/geojson-crs-converter.git"
+  },
+  "author": "Rachel RoseFigura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rachelrf/geojson-crs-converter/issues"
+  },
+  "homepage": "https://github.com/rachelrf/geojson-crs-converter#readme",
+  "dependencies": {
+    "transform-coordinates": "^0.1.0"
+  }
+}
